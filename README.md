@@ -1,5 +1,8 @@
 # Currency-Exchange-App
 
+
+![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-08-22 at 20.14.38.png…]()
+
 Description
 The Currency Exchange App is a user-friendly application for currency conversion, developed using Swift and SwiftUI. This app allows you to fetch current exchange rates and convert amounts between various currencies. It is ideal for travelers, business professionals, and anyone who frequently deals with different currencies.
 
